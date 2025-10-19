@@ -17,5 +17,5 @@ A Python script that automatically downloads **all tracks from a Spotify artist*
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/spotify-artist-downloader.git
-cd spotify-artist-downloader
+git clone https://github.com/2ufdev/spotify-downloader.git
+cd spotify-downloader
